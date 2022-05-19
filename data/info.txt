@@ -1,1 +1,1 @@
-
+{"NEG_SAMPLE_SIZE": 10}
